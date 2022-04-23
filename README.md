@@ -1,3 +1,5 @@
+For the direct link to the mod itself as this is the source code please visit: https://www.curseforge.com/minecraft/mc-mods/ttv-day-counter
+
 TTV Day Counter
 
 TTV Day Counter is a mod that allows you to display your current day on OBS, StreamLabs or any other streaming software as a simple browser source.
